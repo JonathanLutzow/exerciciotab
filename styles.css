@@ -1,0 +1,92 @@
+h1 {
+    background-color: white;
+    color: purple;
+}
+
+body{
+    font-family: 'Itim', cursive;
+    background-color: #226581;
+}
+
+ul{
+    cursor: pointer;
+    color: brown;
+    list-style: none;
+}
+
+p{
+    color: darkgreen;
+}
+
+a{
+    color: indigo;
+}
+
+h4{
+    color: cadetblue;
+}
+
+div{
+    background-color:#2E86AB;
+}
+
+#corinthians{
+    background-color: black;
+}
+
+.flamengo{
+    background-color: brown;
+}
+
+#inter{
+    background-color: bisque;
+}
+
+#gremio{
+    background-color: red;
+}
+
+#churros{
+    color:black;
+}
+
+#poc{
+    color: black;
+}
+
+#wallace{
+    color: black;
+}
+
+#gus{
+    color: black;
+}
+
+#omor{
+    color: black;
+}
+
+#v{
+    color: black;
+}
+
+#z{
+    color: black;
+}
+
+#jo{
+    color: black;
+}
+
+#kl{
+    color: black;
+}
+
+button{
+    background-color: blue;
+    color: aliceblue;
+}
+
+a{
+    cursor: pointer;
+}
