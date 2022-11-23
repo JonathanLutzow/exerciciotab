@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
     background-color: white;
     color: purple;
 }
@@ -89,4 +89,106 @@ button{
 
 a{
     cursor: pointer;
+} */
+
+
+/* codigo começa apartir de agora */
+
+*{
+    margin: 23px;
+    box-sizing: border-box;
+
+}
+
+body{
+    color: goldenrod;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 1.80;
+}
+
+a{
+    color: goldenrod;
+    text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: gold;
+    padding: 0 0 12px 0;
+}
+
+h1{
+    background-color: blueviolet;
+    font-size: 24px;
+}
+
+h2{
+    font-size: 22px;
+}
+
+h3{
+    font-size: 18px;
+}
+
+h4{
+    background-color: violet;
+    font-size: 16px;
+}
+
+h5{
+    font-size: 14px;
+}
+
+h6{
+    font-size: 13px;
+}
+
+#wallace{
+    background-color: red;
+}
+
+#omor{
+    background-color: black;
+}
+
+#poc{
+    background-color: blue;
+}
+
+#jo{
+    background-color:slateblue;
+}
+
+#gus{
+    background-color: royalblue;
+}
+
+#v{
+    background-color: cornflowerblue;
+}
+
+#z{
+    background-color: palevioletred;
+}
+
+#f{
+    background-color: darkseagreen;
+}
+
+#qw{
+    background-color: peru;
+}
+
+#kl{
+    background-color: darksalmon;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.flazao{
+    background-color: wheat;
+    text-decoration: solid;
 }
